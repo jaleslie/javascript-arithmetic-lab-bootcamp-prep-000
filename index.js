@@ -1,4 +1,4 @@
-console.log(1 + 80)
-console.log(60 - 40)
-console.log(2 * 3.4)
-console.log(5.0 / 2.5)
+add(1 , 80)
+subtract(60 , 40) 
+multiply(2 , 3.4)
+divide(5.0 , 2.5)
