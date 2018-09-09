@@ -1,2 +1,2 @@
 console.log(1 + 80)
-console.log()
+console.log(60 - 40)
