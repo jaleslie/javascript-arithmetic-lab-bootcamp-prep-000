@@ -1,1 +1,1 @@
-console.
+console.log 1 + 80
